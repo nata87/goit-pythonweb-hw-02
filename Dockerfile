@@ -15,4 +15,5 @@ RUN pip install --upgrade pip \
 EXPOSE 5000
 
 # 6. Вказуємо команду запуску
-CMD ["python", "app.py"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "5000"]
+
