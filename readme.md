@@ -31,8 +31,8 @@
  **Клонувати репозиторій:**
 
 ```bash
-git clone https://github.com/<ВАШ-USERNAME>/<ІМ'Я-РЕПОЗИТОРІЮ>.git
-cd <ІМ'Я-РЕПОЗИТОРІЮ>
+git https://github.com/nata87/goit-pythonweb-hw-02.git
+cd goit-pythonweb-hw-02
 ```
 
 ---
